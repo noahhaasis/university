@@ -1,0 +1,11 @@
+/home/lambda/RiderProjects/Aufgabe1/Aufgabe1/bin/Debug/netcoreapp3.1/Aufgabe1
+/home/lambda/RiderProjects/Aufgabe1/Aufgabe1/bin/Debug/netcoreapp3.1/Aufgabe1.deps.json
+/home/lambda/RiderProjects/Aufgabe1/Aufgabe1/bin/Debug/netcoreapp3.1/Aufgabe1.runtimeconfig.json
+/home/lambda/RiderProjects/Aufgabe1/Aufgabe1/bin/Debug/netcoreapp3.1/Aufgabe1.runtimeconfig.dev.json
+/home/lambda/RiderProjects/Aufgabe1/Aufgabe1/bin/Debug/netcoreapp3.1/Aufgabe1.dll
+/home/lambda/RiderProjects/Aufgabe1/Aufgabe1/bin/Debug/netcoreapp3.1/Aufgabe1.pdb
+/home/lambda/RiderProjects/Aufgabe1/Aufgabe1/obj/Debug/netcoreapp3.1/Aufgabe1.csprojAssemblyReference.cache
+/home/lambda/RiderProjects/Aufgabe1/Aufgabe1/obj/Debug/netcoreapp3.1/Aufgabe1.AssemblyInfoInputs.cache
+/home/lambda/RiderProjects/Aufgabe1/Aufgabe1/obj/Debug/netcoreapp3.1/Aufgabe1.AssemblyInfo.cs
+/home/lambda/RiderProjects/Aufgabe1/Aufgabe1/obj/Debug/netcoreapp3.1/Aufgabe1.dll
+/home/lambda/RiderProjects/Aufgabe1/Aufgabe1/obj/Debug/netcoreapp3.1/Aufgabe1.pdb

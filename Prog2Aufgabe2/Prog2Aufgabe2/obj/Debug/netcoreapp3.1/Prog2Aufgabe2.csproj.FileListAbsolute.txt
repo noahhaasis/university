@@ -1,0 +1,11 @@
+/home/lambda/RiderProjects/Prog2Aufgabe2/Prog2Aufgabe2/bin/Debug/netcoreapp3.1/Prog2Aufgabe2
+/home/lambda/RiderProjects/Prog2Aufgabe2/Prog2Aufgabe2/bin/Debug/netcoreapp3.1/Prog2Aufgabe2.deps.json
+/home/lambda/RiderProjects/Prog2Aufgabe2/Prog2Aufgabe2/bin/Debug/netcoreapp3.1/Prog2Aufgabe2.runtimeconfig.json
+/home/lambda/RiderProjects/Prog2Aufgabe2/Prog2Aufgabe2/bin/Debug/netcoreapp3.1/Prog2Aufgabe2.runtimeconfig.dev.json
+/home/lambda/RiderProjects/Prog2Aufgabe2/Prog2Aufgabe2/bin/Debug/netcoreapp3.1/Prog2Aufgabe2.dll
+/home/lambda/RiderProjects/Prog2Aufgabe2/Prog2Aufgabe2/bin/Debug/netcoreapp3.1/Prog2Aufgabe2.pdb
+/home/lambda/RiderProjects/Prog2Aufgabe2/Prog2Aufgabe2/obj/Debug/netcoreapp3.1/Prog2Aufgabe2.csprojAssemblyReference.cache
+/home/lambda/RiderProjects/Prog2Aufgabe2/Prog2Aufgabe2/obj/Debug/netcoreapp3.1/Prog2Aufgabe2.AssemblyInfoInputs.cache
+/home/lambda/RiderProjects/Prog2Aufgabe2/Prog2Aufgabe2/obj/Debug/netcoreapp3.1/Prog2Aufgabe2.AssemblyInfo.cs
+/home/lambda/RiderProjects/Prog2Aufgabe2/Prog2Aufgabe2/obj/Debug/netcoreapp3.1/Prog2Aufgabe2.dll
+/home/lambda/RiderProjects/Prog2Aufgabe2/Prog2Aufgabe2/obj/Debug/netcoreapp3.1/Prog2Aufgabe2.pdb
